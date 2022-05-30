@@ -1,0 +1,15 @@
+html, body {
+  background-color : lightblue ;
+}
+.TITLE{
+  color : blue ;
+  font-family : sans-serif ;
+  text-align : center ;
+}
+.para{
+  font-family : sans-serif ;
+}
+.lnk{
+  font-family : sans-serif ;
+  text-align : right ;
+}
